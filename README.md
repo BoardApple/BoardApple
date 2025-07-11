@@ -26,6 +26,6 @@
       <img src="https://skillicons.dev/icons?i=pycharm,wordpress,firebase,unreal">
     </a>
     <br><br>
-    <b>Currently Working on:</b> Personal site, but for now if you'd like to<br> see some of my previous work, I have projects using <a href="https://github.com/BoardApple/CatRate">APIs</a>, <a href="https://github.com/BoardApple/PhishingTest">Python</a>, <a href="https://github.com/BoardApple/OnlineBookstore-v1.4">HTML</a> and CSS in my repos.<br><br>
+    <b>Currently Working on:</b> Personal site, but for now if you'd like to see some of my<br> previous work, I have projects using <a href="https://github.com/BoardApple/CatRate">APIs</a>, <a href="https://github.com/BoardApple/PhishingTest">Python</a>, <a href="https://github.com/BoardApple/OnlineBookstore-v1.4">HTML</a> and CSS in my repos.<br><br>
     <p align="center"> Inspired by <a href="https://github.com/WaviestBalloon">WaviestBalloon</a>.</p>
 </div>
