@@ -1,7 +1,6 @@
 <div align="center"> 
     <!-- Header -->
-    <img src="static/images/pfp.png" width=78px>
-    <br><h3><b>BoardApple</b></h3>
+    <h1><b>BoardApple</b></h1>
     I'm a front-end developer with a little Python knowledge<br>
     <i><b>Currently working as freelance Web Developer & IT support</b></i>
     <br><br>
