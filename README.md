@@ -9,14 +9,9 @@
 
 <div align="center">
     <!-- Skills -->
-    <b>Programming Languages:</b><br>
+    <b>Programming / Front-end Languages:</b><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py">
-    </a>
-    <br><br>
-    <b>Front-end Languages:</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css">
+      <img src="https://skillicons.dev/icons?i=py,html,css">
     </a>
     <br><br>
     <b>Software I've used / use</b><br>
